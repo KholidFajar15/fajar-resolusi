@@ -2,5 +2,5 @@ Fajar Resolusi sebelum akhir tahun 2022
 - Konsisten belajar Web Programming di SIB 
 - Dapat memiliki ilmu React JS
 - Bisa menggunakan Git & GITHUB dengan lancar
-- Bercita cita membuat website baca komik
 - Kolaborasi dengan orang orang pengalaman
+- Membuat website e-commerce
