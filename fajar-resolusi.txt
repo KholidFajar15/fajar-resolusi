@@ -3,4 +3,5 @@ Fajar Resolusi sebelum akhir tahun 2022
 - Dapat memiliki ilmu React JS
 - Bisa menggunakan Git & GITHUB dengan lancar
 - Kolaborasi dengan orang orang pengalaman
-- Membuat website e-commerce
+- Dapat memiliki ilmu Front end sebelum akhir tahun 2022
+- Lancar dalam bidang front end
