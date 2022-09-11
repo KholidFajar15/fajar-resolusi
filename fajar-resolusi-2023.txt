@@ -1,0 +1,5 @@
+RESOLUSI SKILL 2023
+- Mempelajari Back End Programming
+- Memahami Back End mulai dari PHP, PHP Framework, Mysql
+- Memahami dan cara kerja pada database
+- menjadi seorang full stack developer 
