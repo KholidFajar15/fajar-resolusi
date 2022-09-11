@@ -3,7 +3,8 @@ RESOLUSI SKILL 2023
 - Memahami Back End mulai dari:
 * PHP
 * PHP Framework
-^Laravek
+^Laravel
+^CodeIgniter
 * Mysql 
 - Belajar Data Sains
 - Memahami dan cara kerja pada database
