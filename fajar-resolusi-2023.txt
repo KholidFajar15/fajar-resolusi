@@ -10,4 +10,6 @@ RESOLUSI SKILL 2023
 * Mysql 
 - Memahami dan cara kerja pada database
 - menjadi seorang full stack developer 
-- Belajar Phyton
+- Belajar Phyto
+- Belajar UI/UX
+- Belajar E-sport
