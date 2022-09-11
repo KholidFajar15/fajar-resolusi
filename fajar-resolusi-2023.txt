@@ -4,8 +4,10 @@ RESOLUSI SKILL 2023
 * PHP
 * PHP Framework
 ^Cake PHP
-^Symfony
 ^Aura
+^Laravel
+^CodeIgniter
 * Mysql 
 - Memahami dan cara kerja pada database
 - menjadi seorang full stack developer 
+- Belajar Phyton
